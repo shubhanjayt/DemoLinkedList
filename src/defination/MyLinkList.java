@@ -1,4 +1,5 @@
 package defination;
 
-public class MyLinkList {
+public class MyLinkList<E> {
+
 }
